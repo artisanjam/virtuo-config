@@ -49,7 +49,7 @@
     "crashGuard.saveBackup": "True",
     "ethics.enable": "False",
     "houseDecay.enable": "True",
-    "melee.enableInstaHit": "False",
+    "melee.enableInstaHit": "True",
     "movement.delay.runFoot": "200",
     "movement.delay.runMount": "100",
     "movement.delay.turn": "0",
